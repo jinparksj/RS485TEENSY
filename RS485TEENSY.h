@@ -16,9 +16,6 @@ public:
     RS485TEENSY(int BPS, int Teensy_ID);
     void InitializeCommunication();
     void SendSerialPacket(char ID, String Packet, bool isConfirmParity = true);
-    void SendSerialPacketB1(char ID, String Packet, bool isConfirmParity = true);
-    void SendSerialPacketB2(char ID, String Packet, bool isConfirmParity = true);
-    void SendSerialPacketN(char ID, String Packet, bool isConfirmParity = true);
     String PacketGenerator_485(char ReceiverID, char MotorID, String string_command);
     String PacketGenerator_485(char ReceiverID, char MotorID, char char_command, String string_command);
     String PacketGenerator_485(char ReceiverID, char MotorID, char char_command);
@@ -32,10 +29,7 @@ public:
     String PacketGenerator(char BoardID, String strValue);
     String PacketGenerator(int line_space, String strValue);
     bool CheckInitializeUART(String Echo);
-    bool CheckSerialPacket(char ID, String strExpectedEcho);
-    bool CheckSerialPacketB1(char ID, String strExpectedEcho);
-    bool CheckSerialPacketB2(char ID, String strExpectedEcho);
-    bool CheckSerialPacketN(char ID, String strExpectedEcho);
+    bool CheckSerialPacket(char ID, String strExpectedEcho);ß
     String EchoGenerator(char sender_id, char motor_id, char char_command, char char_value);
     String EchoGenerator(char sender_id, char motor_id, String string_command);
     String EchoGenerator(char sender_id, char motor_id, char char_command, String string_command);
@@ -156,7 +150,6 @@ private:
     String Teensy_RS485_ID = "0";
     char ch_Teensy_RS485_ID = '0';
     unsigned long interval_echo_resending = 30000;
-
 };
 
 

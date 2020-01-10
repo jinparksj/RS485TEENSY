@@ -11,7 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="669c61bb-58c9-42fc-aeac-0e181a4cdce0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RS485TEENSY.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/RS485TEENSY.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RS485TEENSY.h" beforeDir="false" afterPath="$PROJECT_DIR$/RS485TEENSY.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578639714530</updated>
       <workItem from="1578639715741" duration="205000" />
-      <workItem from="1578639938224" duration="547000" />
+      <workItem from="1578639938224" duration="570000" />
+      <workItem from="1578641067196" duration="227000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1578639898343</created>
@@ -75,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578639898343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edited readme">
+      <created>1578640499715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578640499715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,20 +92,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="edited readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="290" y="23" key="CommitChangelistDialog2" timestamp="1578639898226">
-      <screen x="0" y="23" width="1536" height="874" />
+    <state x="126" y="-1057" key="CommitChangelistDialog2" timestamp="1578640499611">
+      <screen x="-357" y="-1057" width="2560" height="1057" />
     </state>
+    <state x="126" y="-1057" key="CommitChangelistDialog2/-357.-1057.2560.1057/0.23.1536.874@-357.-1057.2560.1057" timestamp="1578640499611" />
     <state x="290" y="23" key="CommitChangelistDialog2/-357.-1057.2560.1057/0.23.1536.874@0.23.1536.874" timestamp="1578639898226" />
     <state x="323" y="-977" key="SettingsEditor" timestamp="1578639980247">
       <screen x="-357" y="-1057" width="2560" height="1057" />
     </state>
     <state x="323" y="-977" key="SettingsEditor/-357.-1057.2560.1057/0.23.1536.874@-357.-1057.2560.1057" timestamp="1578639980247" />
-    <state x="268" y="137" key="Vcs.Push.Dialog.v2" timestamp="1578639900099">
-      <screen x="0" y="23" width="1536" height="874" />
+    <state x="90" y="-919" key="Vcs.Push.Dialog.v2" timestamp="1578640502366">
+      <screen x="-357" y="-1057" width="2560" height="1057" />
     </state>
+    <state x="90" y="-919" key="Vcs.Push.Dialog.v2/-357.-1057.2560.1057/0.23.1536.874@-357.-1057.2560.1057" timestamp="1578640502366" />
     <state x="268" y="137" key="Vcs.Push.Dialog.v2/-357.-1057.2560.1057/0.23.1536.874@0.23.1536.874" timestamp="1578639900099" />
   </component>
 </project>

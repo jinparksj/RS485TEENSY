@@ -1,23 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="669c61bb-58c9-42fc-aeac-0e181a4cdce0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1WC3O9KjuFu2oo7auoOjJ60PlGS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669c61bb-58c9-42fc-aeac-0e181a4cdce0" name="Default Changelist" comment="" />
+      <created>1578639714530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578639714530</updated>
+      <workItem from="1578639715741" duration="205000" />
+      <workItem from="1578639938224" duration="547000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1578639898343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578639898343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="290" y="23" key="CommitChangelistDialog2" timestamp="1578639873943">
+    <state x="290" y="23" key="CommitChangelistDialog2" timestamp="1578639898226">
       <screen x="0" y="23" width="1536" height="874" />
     </state>
-    <state x="290" y="23" key="CommitChangelistDialog2/-357.-1057.2560.1057/0.23.1536.874@0.23.1536.874" timestamp="1578639873943" />
+    <state x="290" y="23" key="CommitChangelistDialog2/-357.-1057.2560.1057/0.23.1536.874@0.23.1536.874" timestamp="1578639898226" />
+    <state x="323" y="-977" key="SettingsEditor" timestamp="1578639980247">
+      <screen x="-357" y="-1057" width="2560" height="1057" />
+    </state>
+    <state x="323" y="-977" key="SettingsEditor/-357.-1057.2560.1057/0.23.1536.874@-357.-1057.2560.1057" timestamp="1578639980247" />
+    <state x="268" y="137" key="Vcs.Push.Dialog.v2" timestamp="1578639900099">
+      <screen x="0" y="23" width="1536" height="874" />
+    </state>
+    <state x="268" y="137" key="Vcs.Push.Dialog.v2/-357.-1057.2560.1057/0.23.1536.874@0.23.1536.874" timestamp="1578639900099" />
   </component>
 </project>
